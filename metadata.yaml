@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '31476'
     url: http://www.gutenberg.org/2009/agents/31476
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/25934#Portugal-e-Marrocos-perante-a-historia-e-a-politica-europea
 gutenberg_bookshelf: PT História
 gutenberg_issued: '2008-06-30'
 gutenberg_type: Text
